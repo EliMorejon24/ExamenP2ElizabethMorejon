@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "64b8990b79e2ed19e5f9b131"
+  },
+  "RUC": "1785624103",
+  "RAZON_SOCIAL": "EmpresaABC",
+  "CUENTA_PRINCIPAL": "9876543210",
+  "EMPLEADOS": [
+    {
+      "CEDULA_IDENTIDAD": "1785426901",
+      "APELLIDOS": "Pérez Arroyo",
+      "NOMBRES": "Juan Carlos",
+      "NUMERO_CUENTA": "01234567"
+    },
+    {
+      "CEDULA_IDENTIDAD": "1985632410",
+      "APELLIDOS": "González López",
+      "NOMBRES": "María Fernanda",
+      "NUMERO_CUENTA": "76543210"
+    }
+  ]
+}]

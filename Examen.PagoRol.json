@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "64b898b879e2ed19e5f9b12b"
+  },
+  "MES": "Julio",
+  "FECHA_PROCESO": "2023-07-19",
+  "RUC_EMPRESA": "123456789",
+  "CUENTA_PRINCIPAL": "9876543210",
+  "VALOR_TOTAL": 5000,
+  "VALOR_REAL": 0,
+  "EMPLEADOS_PAGO": [
+    {
+      "NUMERO_CUENTA": "01234567",
+      "VALOR": 2500,
+      "ESTADO": "PEN"
+    },
+    {
+      "NUMERO_CUENTA": "76543210",
+      "VALOR": 2500,
+      "ESTADO": "PEN"
+    }
+  ]
+}]
